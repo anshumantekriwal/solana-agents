@@ -1,0 +1,15 @@
+/baseline/node_modules
+baseline/pnpm-lock.yaml
+/code-generation/__pycache__
+/deployer/node_modules
+/frontend/node_modules
+/frontend/dist
+frontend/SEQUENTIAL_ID_SETUP.md
+frontend/SETUP.md
+deployer/.env
+code-generation/.env
+baseline/.env
+frontend/.env
+deployer/package-lock.json
+frontend/package-lock.json
+deployer/package.json
